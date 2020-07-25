@@ -1,0 +1,39 @@
+{
+	"frame": {
+				"body": {
+							"steel_frame": "1500"
+							}
+				},
+	"handle_bar_with_brakes": {
+								"handle": {
+											"tilted": "4000"
+											},
+								"break": {
+											"drum": "2000"
+											}
+								},
+	"seating": {
+				"body": {
+							"fiber": "4000"
+							},
+				"suspension": {
+								"spring": "800"
+								}
+				},
+	"wheels": {
+				"tyre": {
+							"tubeless": "1500"
+							},
+				"rim": {
+							"elive": "3000"
+							}
+				},
+	"chain_assembly": {
+						"gearype": {
+										"withgear": "1500"
+										},
+						"metal": {
+									"steel": "1200"
+									}
+						}
+	}								
